@@ -14,13 +14,13 @@ Gem::Specification.new do |spec|
     device connections on macOS using blueutil. Features include device listing
     with connection status, filtering, and quick toggle functionality.
   DESC
-  spec.homepage = "https://github.com/anassinainc/bluetooth-device-picker"
+  spec.homepage = "https://github.com/AaronRustad/bluetooth-device-picker"
   spec.license = "MIT"
   spec.required_ruby_version = ">= 3.2.0"
 
   spec.metadata["homepage_uri"] = spec.homepage
-  spec.metadata["source_code_uri"] = "https://github.com/anassinainc/bluetooth-device-picker"
-  spec.metadata["changelog_uri"] = "https://github.com/anassinainc/bluetooth-device-picker/blob/main/CHANGELOG.md"
+  spec.metadata["source_code_uri"] = "https://github.com/AaronRustad/bluetooth-device-picker"
+  spec.metadata["changelog_uri"] = "https://github.com/AaronRustad/bluetooth-device-picker/blob/main/CHANGELOG.md"
   spec.metadata["rubygems_mfa_required"] = "true"
 
   # Specify which files should be added to the gem when it is released.
